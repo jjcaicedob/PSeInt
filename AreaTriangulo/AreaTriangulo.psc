@@ -1,5 +1,5 @@
 Proceso AreaTriangulo
-	// Programa que calcula el área de un triángulo
+	// Programa que calcula el Ã¡rea de un triÃ¡ngulo
 	Definir b,h,a Como Real;
 	// Entrada
 	Escribir 'Digite el valor de la Base:';
@@ -9,7 +9,7 @@ Proceso AreaTriangulo
 	// Proceso
 	a <- (b*h)/2;
 	// Salida
-	Escribir 'El área del triángulo es: ';
+	Escribir 'El Ã¡rea del triÃ¡ngulo es: ';
 	Escribir a;
 FinProceso
 
