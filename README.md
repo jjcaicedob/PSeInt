@@ -3,4 +3,4 @@ Este repositorio contiene código generado con la herramienta PSeInt para aprend
 
 Los proyectos contenidos son:
 
-1. AreaTriangulo: Contiene archivo psc y png con el código fuente y diagrama de como calcular el área de un triangulo.
+1. AreaTriangulo: Contiene archivo de código fuente (.psc) y diagrama de flujo (.png) para calcular el área de un triángulo.
