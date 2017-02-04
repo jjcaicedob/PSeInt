@@ -8,8 +8,3 @@ PSeInt es una herramienta para asistir a un estudiante en sus primeros pasos en 
 # Descarga
 La herramienta PSeInt se puede descargar de la siguiente dirección:
 http://pseint.sourceforge.net/
-
-# Proyectos
-Los proyectos contenidos en el repositorio son:
-
-1. AreaTriangulo: Contiene archivo de código fuente (.psc) y diagrama de flujo (.png) para calcular el área de un triángulo. Sirve para entender los conceptos de Entrada (E), Proceso (P) y Salida (S). Permite entender el uso de los dibujos utilizados en los diagramas de flujo.
