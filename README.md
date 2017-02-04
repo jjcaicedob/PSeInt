@@ -1,4 +1,4 @@
-# PSeInt
+# Repositorio PSeInt
 Este repositorio contiene código generado con la herramienta PSeInt para aprender lógica de programación y diagramas de flujo.
 
 # ¿Qué es PSeInt?
