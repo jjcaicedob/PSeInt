@@ -10,3 +10,6 @@ PSeInt es una herramienta para asistir a un estudiante en sus primeros pasos en 
 
 ## Descarga
 La herramienta PSeInt se puede descargar haciendo clic [aquí](http://pseint.sourceforge.net/).
+
+## Proyectos
+- Área del triángulo: Primeros pasos, Entrada(E), Proceso(P) y Salida(S).
