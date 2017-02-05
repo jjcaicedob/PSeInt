@@ -22,4 +22,7 @@
 
 ## Código fuente
 - [Ver](AreaTriangulo.psc).
-<pre>@AreaTriangulo.psc</pre>
+```text
+code();
+address@domain.com
+```
