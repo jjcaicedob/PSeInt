@@ -4,7 +4,7 @@
 ![alt tag](http://1.bp.blogspot.com/-jH62SvoEd8Q/VjDWfHbnysI/AAAAAAAAAKc/ZgchRD1XAL0/s1600/triangulo.png)
 
 ## Descripción
-- El repositorio contiene archivo de *código fuente (.psc)* y *diagrama de flujo (.png)* para calcular el área de un triángulo utilizando la fórmula anterior.
+- El repositorio contiene archivo de *diagrama de flujo (.png)* y *código fuente (.psc)* para calcular el área de un triángulo utilizando la fórmula anterior.
 - Vea los enlaces en **Recursos adicionales** para comprender como realizar el cálculo y visualizar algunos ejemplos.
 
 ## Objetivos
@@ -17,5 +17,8 @@
 - Universo de fórmulas. [Ver](http://www.universoformulas.com/matematicas/geometria/area-triangulo/).
 
 ## Solución
-
+### Diagrama de flujo
 ![alt tag](AreaTriangulo.png)
+
+### Código fuente
+[Ver](AreaTriangulo.psc).
