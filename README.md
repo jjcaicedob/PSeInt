@@ -1,5 +1,6 @@
 # Repositorio PSeInt
-Este repositorio contiene código generado con la herramienta PSeInt para aprender lógica de programación y diagramas de flujo.
+- Este repositorio contiene código generado con la herramienta PSeInt para aprender lógica de programación y diagramas de flujo. 
+- Se basa en una serie de proyectos que permiten el aprendizaje de cada una de las instrucciones para aprender programación.
 
 ## ¿Qué es PSeInt?
 
@@ -8,5 +9,4 @@ PSeInt es una herramienta para asistir a un estudiante en sus primeros pasos en 
 ![alt tag](http://pseint.sourceforge.net/slide/screenshot01.png)
 
 ## Descarga
-La herramienta PSeInt se puede descargar de la siguiente dirección:
-- http://pseint.sourceforge.net/
+La herramienta PSeInt se puede descargar haciendo clic [aquí](http://pseint.sourceforge.net/).
