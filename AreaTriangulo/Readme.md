@@ -17,8 +17,8 @@
 - Universo de fórmulas. [Ver](http://www.universoformulas.com/matematicas/geometria/area-triangulo/).
 
 ## Solución
-### Diagrama de flujo
+## Diagrama de flujo
 ![alt tag](AreaTriangulo.png)
 
-### Código fuente
+## Código fuente
 [Ver](AreaTriangulo.psc).
