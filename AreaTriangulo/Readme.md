@@ -22,7 +22,3 @@
 
 ## Código fuente
 - [Ver](AreaTriangulo.psc).
-```text
-code();
-address@domain.com
-```
