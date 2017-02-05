@@ -22,3 +22,4 @@
 
 ## Código fuente
 - [Ver](AreaTriangulo.psc).
+<pre>@AreaTriangulo.psc</pre>
