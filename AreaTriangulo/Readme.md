@@ -4,7 +4,8 @@
 ![alt tag](http://1.bp.blogspot.com/-jH62SvoEd8Q/VjDWfHbnysI/AAAAAAAAAKc/ZgchRD1XAL0/s1600/triangulo.png)
 
 ## Descripción
-Contiene archivo de código fuente (.psc) y diagrama de flujo (.png) para calcular el área de un triángulo. 
+- Contiene archivo de código fuente (.psc) y diagrama de flujo (.png) para calcular el área de un triángulo utilizando la fórmula anterior.
+- Vea los enlaces en "recursos adicionales" para comprender como realizar el calculo y ejemplos.
 
 ## Objetivos
 - Comprender los conceptos de Entrada (E), Proceso (P) y Salida (S).
