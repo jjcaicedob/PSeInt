@@ -1,6 +1,7 @@
 # Proyecto
 Área del Triángulo
-![alt tag](http://app-prod-icarito.s3-us-west-1.amazonaws.com/wp-content/uploads/2010/03/10214059/678099.jpg)
+
+![alt tag](http://1.bp.blogspot.com/-jH62SvoEd8Q/VjDWfHbnysI/AAAAAAAAAKc/ZgchRD1XAL0/s1600/triangulo.png)
 
 ## Descripción
 Contiene archivo de código fuente (.psc) y diagrama de flujo (.png) para calcular el área de un triángulo. 
