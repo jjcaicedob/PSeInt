@@ -13,4 +13,4 @@ Contiene archivo de código fuente (.psc) y diagrama de flujo (.png) para calcul
 - ¿Es posible crear un algoritmo o diagrama de flujo para calcular el área del triángulo con menos pasos?
 
 # Recursos adicionales
-- Triángulos [Conceptos básicos sobre triángulos](http://www.ditutor.com/geometria/area_triangulo.html).
+- Conceptos básicos sobre triángulos y como calcular el área [Ver](http://www.ditutor.com/geometria/area_triangulo.html).
