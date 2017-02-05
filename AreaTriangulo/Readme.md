@@ -10,4 +10,4 @@ Contiene archivo de código fuente (.psc) y diagrama de flujo (.png) para calcul
 - Utilizar los símbolos adecuados para la creación de diagramas de flujo.
 
 # Participa
-- ¿Es posible crear un algoritmo o diagrama con menos pasos?
+- ¿Es posible crear un algoritmo o diagrama de flujo para calcular el área del triángulo con menos pasos?
