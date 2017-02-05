@@ -15,3 +15,7 @@
 ## Recursos adicionales
 - Conceptos básicos sobre triángulos y como calcular el área. [Ver](http://www.ditutor.com/geometria/area_triangulo.html).
 - Universo de fórmulas. [Ver](http://www.universoformulas.com/matematicas/geometria/area-triangulo/).
+
+## Solución
+
+![alt tag](AreaTriangulo.png)
