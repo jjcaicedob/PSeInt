@@ -13,4 +13,5 @@ La herramienta PSeInt se puede descargar haciendo clic [aquí](http://pseint.sou
 
 # Proyectos
 A continuación el listado de proyectos disponibles en el orden adecuado de revisión y progresión:
-- [Área del triángulo](AreaTriangulo): Primeros pasos, Entrada(E), Proceso(P) y Salida(S).
+- [Área del triángulo](AreaTriangulo): Primeros pasos, Entrada(E), Proceso(P) y Salida(S). Definición de variables.
+- [Área del cilindro](AreaCilindro): Difrenciación entre Variables y Constantes.
