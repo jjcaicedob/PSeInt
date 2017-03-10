@@ -12,6 +12,7 @@ PSeInt es una herramienta para asistir a un estudiante en sus primeros pasos en 
 La herramienta PSeInt se puede descargar haciendo clic [aquí](http://pseint.sourceforge.net/).
 
 # Proyectos
-A continuación el listado de proyectos disponibles en el orden adecuado de revisión y progresión:
+A continuación el listado de proyectos disponibles en el orden adecuado de revisión y progresión y una breve descripción de los temas enfatizados y tratados por cada uno:
 - [Área del triángulo](AreaTriangulo): Primeros pasos, Entrada(E), Proceso(P) y Salida(S). Definición de variables.
 - [Área del cilindro](AreaCilindro): Diferenciación entre Variables y Constantes. Entrada(E), Proceso(P) y Salida(S).
+- [Indice de Masa Corporal](IMC): Expresiones aritméticas. Expresiones booleanas. Condicionales.
