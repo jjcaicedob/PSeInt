@@ -1,5 +1,5 @@
 # Proyecto
-ïndice de Masa Corporal - IMC
+Índice de Masa Corporal - IMC
 
 ![alt tag](https://www.bimbovenezuela.com/diet/wp-content/uploads/2011/08/Formula-imc.jpg)
 
