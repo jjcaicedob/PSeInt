@@ -1,7 +1,7 @@
 # Proyecto
 ïndice de Masa Corporal - IMC
 
-![alt tag](http://1.bp.blogspot.com/-jH62SvoEd8Q/VjDWfHbnysI/AAAAAAAAAKc/ZgchRD1XAL0/s1600/triangulo.png)
+![alt tag](https://www.bimbovenezuela.com/diet/wp-content/uploads/2011/08/Formula-imc.jpg)
 
 # Descripción
 - El repositorio contiene archivo de *diagrama de flujo (.png)* y *código fuente (.psc)* para calcular el IMC utilizando la fórmula anterior.
@@ -16,7 +16,7 @@
 - Utilizar condicionales.
 
 # Recursos adicionales
-- Conceptos básicos sobre IMC y como calcularlo. [Ver](http://www.ditutor.com/geometria/area_triangulo.html).
+- Conceptos básicos sobre IMC y como calcularlo. [Ver](https://es.wikipedia.org/wiki/%C3%8Dndice_de_masa_corporal).
 
 # Solución
 ## Diagrama de flujo
